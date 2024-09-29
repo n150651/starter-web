@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new fiels craeated animals
+=======
+thsi is first animal txt
+>>>>>>> 7c04b29bdf408b4a9997edc26537bfeb2202d76e
