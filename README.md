@@ -3,7 +3,8 @@
 ##Introduction
 
 ##Purpose
-
+this is let the people know purpose of git repository
 ##Deployment
+this is a simple working of git for Deployment
 
 ##How to Contribute
