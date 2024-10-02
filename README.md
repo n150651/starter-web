@@ -1,5 +1,6 @@
 #Started Web Project
-
+this is a simple website project for how to use git and git hub togther.
+Adding a line for rebase example
 ##Introduction
 
 ##Purpose
